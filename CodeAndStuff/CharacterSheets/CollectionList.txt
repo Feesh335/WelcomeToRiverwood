@@ -1,0 +1,52 @@
+Dark Areas:
+	Low: Strahd Zombie (https://5e.tools/bestiary.html#strahd zombie_cos)
+	Medium: Bone Naga (https://5e.tools/bestiary.html#bone naga (spirit)_mm), Merregon (https://5e.tools/bestiary.html#merregon_mtf)
+	High: Beholder Zombie (https://5e.tools/bestiary.html#beholder zombie_mm)
+Grassy Areas:
+	Low: Jaculi (https://5e.tools/bestiary.html#jaculi_toa), Quickling (https://5e.tools/bestiary.html#quickling_vgm)
+	Medium: Bristled Moorbounder (https://5e.tools/bestiary.html#bristled moorbounder_egw), Quetzalcoatlus (https://5e.tools/bestiary.html#quetzalcoatlus_vgm)
+	High: Carnivorous Plant (https://5e.tools/bestiary.html#carnivorous flower_rot)
+Firey Areas:
+	Low: Abyssal Chicken (https://5e.tools/bestiary.html#abyssal chicken_bgdia), Scorchbringer Guard (https://5e.tools/bestiary.html#scorchbringer guard_ggr)
+	Medium: Lava child (https://5e.tools/bestiary.html#lava child_wdmm)
+	High: Razerblast (https://5e.tools/bestiary.html#razerblast_pota)
+Sandy Areas:
+	Low: Scarab Swarm (https://5e.tools/bestiary.html#swarm of beetles_mm), Scarab Man (https://5e.tools/bestiary.html#thri-kreen_mm)
+	Medium: Stonemelder (https://5e.tools/bestiary.html#stonemelder_pota)
+	High: Scorpion Man (https://5e.tools/bestiary.html#tlincalli_vgm)
+Icy Areas:
+	Low: Ice Toad (https://5e.tools/bestiary.html#ice toad_rot)
+	Medium: Polar Bear (https://5e.tools/bestiary.html#huge polar bear_tftyp), Chilly Dog (https://5e.tools/bestiary.html#winter wolf_mm)
+	High: Ice Troll (https://5e.tools/bestiary.html#ice troll_rot)
+Urban Areas:
+	Low: Evil mage (https://5e.tools/bestiary.html#evil mage_lmop)
+	Medium: Huge Ochre Jelly (https://5e.tools/bestiary.html#huge ochre jelly_tftyp)
+	High: Bloodfray Giant (https://5e.tools/bestiary.html#bloodfray giant_ggr)
+Heavenly Areas:
+	Low: Priest (https://5e.tools/bestiary.html#priest_mm)
+	Medium: Couatl (https://5e.tools/bestiary.html#couatl_mm)
+	High: Battleforce Angel (https://5e.tools/bestiary.html#battleforce angel_ggr), Hollyphant (https://5e.tools/bestiary.html#hollyphant_bgdia)
+Aquatic Areas:
+	Low: Aldani (https://5e.tools/bestiary.html#aldani (lobsterfolk)_toa)
+	Medium: Hunter Shark (https://5e.tools/bestiary.html#hunter shark_mm)
+	High: Water Troll (https://5e.tools/bestiary.html#aquatic troll_rot) Alpha Grick (https://5e.tools/bestiary.html#grick alpha_mm)
+Wanderers:
+	Low: Mindcontrolled Caretaker (https://5e.tools/bestiary.html#bugbear lieutenant_tftyp)
+	Medium: Troglodyte Mindslave (https://5e.tools/bestiary.html#troglodyte champion of laogzed_oota)
+	High: Adult Oblex (https://5e.tools/bestiary.html#adult oblex_mtf), Mindwitness (https://5e.tools/bestiary.html#mindwitness_vgm)
+	Boss: The Warden (https://5e.tools/bestiary.html#mind flayer arcanist_mm)
+Special: Slugasque (https://www.dandwiki.com/wiki/Slugasque_(5e_Creature))
+Mimic: https://5e.tools/bestiary.html#large mimic_wdmm
+
+Traps: See https://roll20.net/compendium/dnd5e/Traps#content
+http://www.dungeonmastering.com/campaigns-adventures/clever-dd-traps (#1 fingerprick/clone, #9 magnet floor)
+Burning bear gas: All targets within 30 feet of the trap must pass a DC20 wisdom saving throw or see every target as a bear on fire for 4 hours.
+Cody isn't allowed to make homebrews traps anymore trap: Collapsing roof mechanical trap that is triggered if the pressure plate isn't stepped on. DC12 investigation to see the pressure plate, DC20 to notice that the pressure plate blocks the trap.
+Acid sprayer: https://www.dandwiki.com/wiki/Acid_Sprayer_(5e_Trap)
+Lightly fried fish fillets door: The door won't let the party through unless they eat the lightly fried fish fillets that in conjures.
+	anyone who eats the fillet must make a DC15 wisdom saving throw to notice that they taste pretty good.
+Little big door: Casts shrink on all who enter and growth on all who leave
+
+
+
+
